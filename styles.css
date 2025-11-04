@@ -1,5 +1,15 @@
+/* Write the CSS Code for Lessons 01-04 below this comment */
 
+/* Write the CSS Code for Lessons 01-04 above this comment */
 
+/* Edit the CSS Code for Lesson 05 below this comment */
+.app {
+    background-color: rgb(137, 179, 217);
+    padding: 5px;
+    height: 400px;
+    width: 1600px;
+}
+/* Edit the CSS Code for Lesson 05 above this comment */
 
 /* Pre-existing CSS for Lesson 04 DO NOT Tamper with */
 .sandbox {
